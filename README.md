@@ -1,0 +1,2 @@
+# predicting_housing_prices
+You work for a consultancy specialising in real estate: your clients include developers, agencies, and investors. Pricing is a central aspect to the business. Traditionally, it’s the domain of home appraisers to determine the value of a property, which must be executed in an unbiased way, following an official criteria to ensure that there is no bias towards neither the buyer nor the seller.
